@@ -1,0 +1,10 @@
+Usuario: maria [456]
+   Compras:
+   - Spider Man por Stan Lee
+
+
+Usuario: johan [123]
+   Compras:
+   - Akira por Katsuhiro Otomo
+
+
